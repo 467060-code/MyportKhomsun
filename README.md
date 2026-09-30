@@ -14,7 +14,8 @@
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <!-- ส่วนรูปภาพด้านขวา (นำลิงก์รูปของคุณมาใส่แทนที่ลิงก์ด้านล่าง) -->
-      <img src="https://via.placeholder.com/300x400.png?text=Profile+Picture" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="หน้าปกportfolio">
+      <img src="<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/a1a6dbbc-6200-4d7b-b26d-f7d2ade5b1fb" />
+" width="250" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="หน้าปกportfolio">
     </td>
   </tr>
 </table>

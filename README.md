@@ -14,7 +14,8 @@
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <!-- ส่วนรูปภาพด้านขวา (นำลิงก์รูปของคุณมาใส่แทนที่ลิงก์ด้านล่าง) -->
-      # <img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/190b58e0-9103-456d-b95a-fc159c7f478f" />
+      หน้าปกPortfolio <img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/190b58e0-9103-456d-b95a-fc159c7f478f" />
+       
 
     </td>
   </tr>
